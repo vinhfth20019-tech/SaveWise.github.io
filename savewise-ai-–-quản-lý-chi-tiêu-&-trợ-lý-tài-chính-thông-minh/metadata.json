@@ -1,0 +1,6 @@
+{
+  "name": "SAVEWISE AI – Quản lý chi tiêu & Trợ lý tài chính thông minh",
+  "description": "Nền tảng quản lý tài chính cá nhân thông minh với trợ lý AI, giúp học sinh, sinh viên và người đi làm lập kế hoạch ngân sách hàng ngày, theo dõi thu chi, tiết kiệm mục tiêu và tối ưu chi phí ăn uống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
